@@ -2,6 +2,8 @@ from model.list_de import ListDE
 from model.ship import Ship
 from model.ship_distribution import ShipDistribution
 
+
+
 class ListDEService:
     def __init__(self):
         self.list_de = ListDE()

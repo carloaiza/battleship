@@ -1,4 +1,4 @@
-from type_user import TypeUser
+from .type_user import TypeUser
 
 class User:
     def __init__(self,data,id:int,type_user:TypeUser):
